@@ -1,0 +1,4 @@
+gem install  # rubyに関する諸々をインストールできる
+gem install sinatra sqlite3 activerecord sinatra-contrib
+
+gem list  # gemでインストールされたツール一覧を表示する
